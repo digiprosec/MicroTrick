@@ -1,4 +1,4 @@
-# MikroTrick PoC — CVE-2026-86060 (RouterOS unauthenticated full takeover)
+# MikroTrick PoC - (RouterOS unauthenticated full takeover)
 
 `poc_mikrotrick.py` is a self-contained exploit for the SSH attack chain that
 CERT Polska disclosed as **"MikroTrick"** on 2026-09-05, exploited in the wild
